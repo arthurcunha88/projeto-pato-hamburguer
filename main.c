@@ -1,5 +1,5 @@
 /// =========================================================================================================
-// PATO BURGER GAME - GRUPO PILOTO
+// PATO BURGER GAME - GRUPO ARTHUR CUNHA
 // Feito por Arthur Andrade Cunha, Arthur Piloto Bastos, Isaque Pessoa, Marcel Guedes, Pedro Henrique Aguiar.
 /// =========================================================================================================
 

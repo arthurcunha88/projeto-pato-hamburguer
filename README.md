@@ -66,4 +66,3 @@ Gere a **Fila de Espera de Clientes**.
 
 ---
 *Projeto desenvolvido para a disciplina de Análise de Estrutura de Dados - Curso de Engenharia da Computação.*
-# projeto-pato-hamburguer
